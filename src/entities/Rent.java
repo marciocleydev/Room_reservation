@@ -1,9 +1,9 @@
 package entities;
 
 public class Rent {
-    String name;
-    String email;
-    int roomNumber;
+    private String name;
+    private String email;
+    private int roomNumber;
 
     public Rent() {
     }
